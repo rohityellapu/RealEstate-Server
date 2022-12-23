@@ -13,7 +13,7 @@ const PORT = 5000;
 const cors = require('cors')
 
 const corsOptions = {
-  origin: 'http://localhost:3000',
+  origin: 'https://estate-catalog-by-rohit-chava-harish.onrender.com',
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
 }
 
